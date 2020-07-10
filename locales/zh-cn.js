@@ -284,7 +284,10 @@
 	"entireBook":           "整本书",
 	"pdfChapterNotes":      "章节注释",
 	"pdfChapterNotesDesc":  "任何注释将被添加到本章的末尾",
-	"pdfInProgress":        "当前正在为您生成PDF文件。请稍后重试。"
+	"pdfInProgress":        "当前正在为您生成PDF文件。请稍后重试。",
+
+    "stack":"叠放",
+    "home":"家"
 
 
 }

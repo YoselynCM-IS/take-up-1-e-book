@@ -285,7 +285,10 @@
 	"entireBook":           "Teljes könyv",
 	"pdfChapterNotes":      "Fejezet megjegyzések",
 	"pdfChapterNotesDesc":  "Az esetleges megjegyzéseket a fejezet végéhez csatoljuk",
-	"pdfInProgress":        "Jelenleg egy PDF fájlt generálunk az ön számára. Kérjük, próbálkozzon később újra."
+	"pdfInProgress":        "Jelenleg egy PDF fájlt generálunk az ön számára. Kérjük, próbálkozzon később újra.",
+
+    "stack":"Kazal",
+    "home":"Itthon"
 
 	
 

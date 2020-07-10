@@ -293,7 +293,10 @@
     "entireBook":"Entire book",
     "pdfChapterNotes":"Chapter notes",
     "pdfChapterNotesDesc":"Any notes will be appended to the end of the relative chapter",
-    "pdfInProgress":"A PDF export is currently being generated for you. Please try again later."
+    "pdfInProgress":"A PDF export is currently being generated for you. Please try again later.",
+
+    "stack":"Stack",
+    "home":"Home"
 
 
 }

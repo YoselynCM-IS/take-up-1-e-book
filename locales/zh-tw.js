@@ -285,5 +285,8 @@
     "entireBook":         "整本書",
     "pdfChapterNotes":    "章節註釋",
     "pdfChapterNotesDesc": "任何註釋將被添加到相關章節的末尾",
-    "pdfInProgress":      "當前正在為您生成PDF導出。請稍後再試。"
+    "pdfInProgress":      "當前正在為您生成PDF導出。請稍後再試。",
+
+    "stack":"疊放",
+    "home":"家"
 }
